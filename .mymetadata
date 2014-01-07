@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
+<<<<<<< HEAD
   name="activiti"
   id="myeclipse.1389084176906"
   context-root="/activiti-demo"
   j2ee-spec="6.0"
   archive="activiti.war">
+=======
+  name="activiti-demo2"
+  id="myeclipse.1389084176906"
+  context-root="/activiti-demo2"
+  j2ee-spec="6.0"
+  archive="activiti-demo2.war">
+>>>>>>> 94afb75ad6da9c8c5914ab7ae798b6864d2045cf
   <attributes>
     <attribute name="webrootdir" value="webapp" />
   </attributes>
