@@ -1,0 +1,9 @@
+ACTIVITI-DEMO ROADMAP
+=====================
+http://www.mossle.org
+
+
+Changes in version 1.0.0-SNAPSHOT (2013-00-00)
+--------------------------------------
+
+* 删除会把所有的流程定义删除。
